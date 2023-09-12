@@ -1,2 +1,2 @@
 # sistema-cadastro
-> Status do projeto: Em desenvolvimento; 
+- Status do projeto: Em desenvolvimento; 
